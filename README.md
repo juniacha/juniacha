@@ -23,24 +23,35 @@ I believe that coding doesn't have to be perfect from the beginning. Every bug, 
 <img src="https://skillicons.dev/icons?i=php,python,java,html,css,js,mysql&theme=light" />
 
 ### 🌸 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=laravel,spring,bootstrap,vscode,git,github,postman&theme=light" />
-
-### 🐇 Exploring
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=light" />
+<img src="https://skillicons.dev/icons?i=laravel,spring,bootstrap,vscode,git,github&theme=light" />
 
 </div>
 
-## 🍓 GitHub Corner
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&background=FFF7FB&border=F8C8DC&ring=E88DB5&fire=F4A6C1&currStreakLabel=E88DB5&sideLabels=777777&dates=AAAAAA" />
-
-</div>
+---
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀ ⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⢔⡻⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣼⠁⢮⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠉⠶⣎⣷⣶⣀⣀⡶⠶⠶⠶⠶⠉⠉⠉⠹⠶⠶⢶⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⠤⠒⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠲⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⡴⠋⠀⠀⠀⠀⠀⠀⣠⡄⠀⠀⠀⠀⠀⣤⡀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀
+⠀⠀⠀⣠⠞⠁⠀⠀⣠⠀⠀⠀⡼⠉⣇⠀⠀⠀⠀⠀⡽⠙⣆⠀⢀⣀⠀⠀⠀⠀⠈⠳⡄⠀⠀⠀
+⠀⠀⡴⠃⠀⠀⢀⡜⢻⠀⠀⡼⠃⠀⣹⠀⠀⠀⠀⢀⡇⠀⠛⡆⣸⠉⢆⠀⠀⠀⠀⠀⠘⢆⠀⠀
+⠀⡼⠁⠀⠀⢀⡞⠀⢘⣧⣼⣧⠀⠀⠘⣶⣄⡀⠀⡜⠀⠙⣶⣿⣧⣄⠈⢧⡀⠀⠀⠀⣀⠈⢧⠀
+⣼⠵⡆⠀⠀⡟⢀⢿⣿⣿⣿⡷⠀⠀⠀⠀⠀⠙⠚⠁⠀⠀⣿⢿⣿⣿⠻⠆⢴⣀⡀⢀⡏⠙⠚⠇
+⠁⠀⡇⠀⣸⣟⠁⢸⡏⠉⢀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡀⠀⣹⠀⠀⠀⢇⠀⢹⡇⠀⠀⠀
+⠀⠀⡇⣰⢿⢸⠀⠀⢷⣀⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠳⠶⠋⠀⠀⠀⢸⣀⣯⡇⠀⠀⠀
+⠀⠀⢷⠃⢸⡘⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡜⠁⠀⠀⢹⠀⠀
+⠀⠀⠀⠀⠀⡇⠘⢦⡀⠀⠀⠀⠀⠀⠀⠀⠐⠲⠶⠖⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠈⡇⠀
+⠀⠀⠀⢀⡀⢷⠀⠀⠈⠑⠲⠤⣄⣀⣀⣀⣀⠀⣀⢀⣠⡤⠔⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⡼⠀⠀
+⠀⠀⠀⡞⠙⣼⠀⠀⠀⠀⠀⠀⠀⠀⠰⣶⣿⡆⠀⠀⠸⣷⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀
+⠀⣠⠴⠳⢼⠫⣄⠀⠀⠀⠀⠀⢀⣴⣾⣿⡟⢇⠀⣰⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀
+⢸⠁⣀⢀⣀⠇⠈⠉⠶⣆⣠⣯⢿⣿⣏⡿⣿⡎⣾⣿⡿⣏⣿⣹⣿⡦⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀
+⢸⠀⢀⣀⣀⣣⣤⡀⠀⢀⣿⣿⣿⣿⣯⣟⡿⣿⣿⢯⡿⣽⢾⣽⣟⣇⠀⠀⠀⠀⠀⠑⣄⠀⠀⠀
+⠨⡇⢀⢀⣀⣸⣿⣷⣾⣿⣿⣿⣿⣿⢾⣽⣻⣿⣿⣯⢿⡽⣞⣿⡿⣽⡀⠀⠀⠀⠀⠀⠀⠳⡄⠀
+⠀⠙⢻⣿⣶⣿⣿⣿⣿⣿⡿⣿⣿⢯⣟⣾⣳⢿⡽⣞⣯⢿⣽⣿⣽⣻⣇⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀⠀⠀⠀⠀⠀⠀
+</pre>
+---
 
 ## 💌 Let's Connect!
 
