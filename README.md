@@ -1,31 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Hello,%20I'm%20Jun!&fontSize=40&fontColor=da6c81&fontAlignY=38&desc=૮%20꒰%20ྀི%20◜%20ᵕ%20◝%20꒱%20ྀིა%20welcome%20to%20my%20little%20corner&descAlignY=60&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8D7E8&height=120&section=header&text=hello,%20world!&fontSize=38&fontColor=C85D85&animation=fadeIn&fontAlignY=50" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=14&duration=3000&pause=1000&color=E88BAA&center=true&vCenter=true&width=400&lines=just+a+girl+who+loves+to+code+%3C3;currently+debugging+my+life...;404%3A+sleep+not+found;making+bugs+look+like+features" />
 
 <br>
 
-♡₊˚ 🦢・₊✧・୨୧・✧₊・🩰 ˚₊♡
+`૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა` &nbsp; **welcome to my little corner of the internet!** &nbsp; `୨୧`
 
 </div>
 
+---
 
-୨୧ Hi hi! Welcome to my little corner of GitHub!
+```text
+♡ currently in my coding era ♡
 
-I'm a university student who loves exploring the world of programming, building projects, and learning new technologies. I'm still growing as a developer, one line of code at a time. 🎀
+   learning    ▰▰▰▰▰▱▱▱  70%
+   debugging   ▰▰▰▰▰▰▰▰  99%
+   sleeping    ▰▰▰▰▰▰▰▰  100%
+```
 
-I believe that coding doesn't have to be perfect from the beginning. Every bug, error, and late-night debugging session is part of the journey! ♡
+<details>
+<summary>🎀 a few random things about me</summary>
 
-## 🧸 Tech Stack
+<br>
+
+- 🐈 probably opening another browser tab right now
+- 💻 my code and i are in a complicated relationship
+- 🌸 i like turning little ideas into real projects
+- 🧃 professional error message collector
+- ✨ still learning, still growing, still making mistakes!
+
+</details>
+
+---
+
+### 🧸 things i play with
 
 <div align="center">
 
-### 💻 Languages
+**♡ languages ♡**
+
 <img src="https://skillicons.dev/icons?i=php,python,java,html,css,js,mysql&theme=light" />
 
-### 🌸 Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=laravel,spring,bootstrap,vscode,git,github&theme=light" />
+<br><br>
 
-</div>
+**♡ frameworks & tools ♡**
+
+<img src="https://skillicons.dev/icons?i=laravel,spring,bootstrap,vscode,git,github,figma&theme=light" />
+
+<br><br>
+
+
+### 🖥️ my brain during debugging
+
+<div align="center">
 
 ---
 <pre>
@@ -50,23 +79,23 @@ I believe that coding doesn't have to be perfect from the beginning. Every bug, 
 ⢸⠀⢀⣀⣀⣣⣤⡀⠀⢀⣿⣿⣿⣿⣯⣟⡿⣿⣿⢯⡿⣽⢾⣽⣟⣇⠀⠀⠀⠀⠀⠑⣄⠀⠀⠀
 ⠨⡇⢀⢀⣀⣸⣿⣷⣾⣿⣿⣿⣿⣿⢾⣽⣻⣿⣿⣯⢿⡽⣞⣿⡿⣽⡀⠀⠀⠀⠀⠀⠀⠳⡄⠀
 ⠀⠙⢻⣿⣶⣿⣿⣿⣿⣿⡿⣿⣿⢯⣟⣾⣳⢿⡽⣞⣯⢿⣽⣿⣽⣻⣇⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀⠀⠀⠀⠀⠀⠀
+
+  "it works on my machine." ♡
 </pre>
 ---
 
-## 💌 Let's Connect!
+*error 404: motivation not found*
 
-<div align="center">
+</div>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-FFF0F6?style=for-the-badge&logo=github&logoColor=E88DB5"/>
-</a>
+---
 
-<br><br>
+### 💗 thanks for stopping by!
 
-♡ Thank you for visiting my little world! ♡
+*made with curiosity, a little chaos, and lots of ♡*
 
-*Keep learning, keep creating, and keep being yourself.* 🎀
+`stay silly. keep coding. drink some water.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8D7E8&height=80&section=footer" width="100%"/>
 
 </div>
