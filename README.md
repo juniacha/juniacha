@@ -17,7 +17,7 @@
 
    learning    ▰▰▰▰▰▱▱▱  70%
    debugging   ▰▰▰▰▰▰▰▰  99%
-   sleeping    ▰▰▰▰▰▰▰▰  100%
+   sleeping    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  10000000%
 ```
 
 <details>
